@@ -1,2 +1,2 @@
 # ATM Manager
-#It Has features like deposit withdraw and balance checking.
+#It Has features like deposit ,  withdraw and balance checking.
